@@ -62,3 +62,6 @@
 [user]
 	email = titien.orefice@gmail.com
 	name = titien orefice
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
